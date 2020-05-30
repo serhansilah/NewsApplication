@@ -9,3 +9,15 @@ When we clicked a news it will open the page which contains detail of that news.
 At news detail page when we clicked pencil logo it will open comments page which we can see all the other users comments.
 At comments page we can choose plus icon it will open comment creation page and we can add our name and comment on that page and we can post it.
 All the pages except main page have got back arrow icon to navigate on pages.
+
+## Main Page
+![](images/mainpage.png)
+
+## Details of News
+![](images/newsdetails.png)
+
+## Comments
+![](images/comments.png)
+
+## Comments Creation
+![](images/commentscreation.png)
